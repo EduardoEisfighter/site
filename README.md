@@ -1,1 +1,1 @@
-Esse é meu projeto para apresentar meus cursos.
+* Esse é meu projeto para apresentar meus cursos.
